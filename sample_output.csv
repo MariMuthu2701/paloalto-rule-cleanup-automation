@@ -1,0 +1,3 @@
+Rule Name,Source,Destination,Application,Action,Hit Count
+Allow-Internet,Any,Any,web-browsing,allow,1245
+Test-Rule,Any,Any,any,deny,0
